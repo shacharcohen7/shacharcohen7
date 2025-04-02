@@ -4,7 +4,7 @@
 
 💻 Passionate about Full-Stack Development (Frontend Oriented).
 
-🔭 I’m currently looking for my first job as software developer.
+🔭 I’m currently looking for my first job as a Software Developer.
 
 📫 Reach me at: [shacharc4@gmail.com](mailto:shacharc4@gmail.com)  
 
