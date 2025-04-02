@@ -9,4 +9,4 @@
 📫 Reach me at: [shacharc4@gmail.com](mailto:shacharc4@gmail.com)  
 
 ### Featured Projects  
-- 🚀 [Negev Nerds](https://github.com/your-username/project-repo) – Short description  
+- 🚀 [Negev Nerds](https://github.com/davidvolo/NegevNerds) – Short description  
