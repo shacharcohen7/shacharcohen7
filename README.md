@@ -1,10 +1,10 @@
 ## Hi, I'm Shachar 👋  
 
-🎓 Software Engineering Student @ Ben Gurion University  
+🎓 Software Engineering B.Sc, Ben Gurion University.
 
-🔭 I’m currently looking for my first job in software development
+💻 Passionate about Full-Stack Development (Fronted Oriented).
 
-💻 Passionate about Full-Stack Development (Fronted Oriented)
+🔭 I’m currently looking for my first job as software developer.
 
 📫 Reach me at: [shacharc4@gmail.com](mailto:shacharc4@gmail.com)  
 
