@@ -2,7 +2,7 @@
 
 🎓 Software Engineering B.Sc, Ben Gurion University.
 
-💻 Passionate about Full-Stack Development (Fronted Oriented).
+💻 Passionate about Full-Stack Development (Frontend Oriented).
 
 🔭 I’m currently looking for my first job as software developer.
 
