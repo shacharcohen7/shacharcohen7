@@ -10,6 +10,7 @@
 
 ### Featured Projects  
 🚀 [Negev Nerds](https://github.com/davidvolo/NegevNerds) - A centralized platform that enables students to efficiently share and discuss past exam questions through a searchable question repository and interactive discussion features.
+
 🚀 [PrestaShop](https://github.com/shacharcohen7/PrestaShop) - QA automation for open-source software.
 
 
