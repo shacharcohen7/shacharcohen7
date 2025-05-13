@@ -2,6 +2,8 @@
 
 🎓 Software Engineering B.Sc, Ben Gurion University.
 
+💻 Experienced QA Engineer with a strong background in both manual and automated testing.
+
 🔭 I’m currently looking for my first role as a Software Developer.
 
 📫 Reach me at: [shacharc4@gmail.com](mailto:shacharc4@gmail.com)  
